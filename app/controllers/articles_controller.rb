@@ -1,3 +1,6 @@
+# frozen_string_literal: true
+
+# Handles all functionality related to Articles
 class ArticlesController < ApplicationController
   def index
     @articles = Article.all
@@ -43,8 +46,8 @@ class ArticlesController < ApplicationController
   end
 
   private
-    def article_params
-      params.require(:article).permit(:title, :body)
-    end
-end
 
+  def article_params
+    params.require(:article).permit(:title, :body, :status)
+  end
+end
