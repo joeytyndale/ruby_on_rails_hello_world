@@ -1,24 +1,11 @@
-# README
+# RUBY
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repo is my playground for rails. I want to get to know it better and see if it's something I want to pursue further
 
-Things you may want to cover:
+Some reasons:
 
-* Ruby version
+* Similarities to Laravel
 
-* System dependencies
+* Cool community
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Bragging rights (I use Arch BTW)
